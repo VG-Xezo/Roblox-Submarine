@@ -1,7 +1,6 @@
 # Roblox-Submarine
-Cool roblox submarine script
 
-Quick Project Breakdown
+Project Breakdown
 
 The Submarine uses a LinearVelocity to move forward/backward. It uses an angular velocity to turn. This is handled in ControlScript.lua.
 
